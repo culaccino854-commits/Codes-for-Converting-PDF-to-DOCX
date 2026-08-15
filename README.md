@@ -118,3 +118,16 @@ def main():
 
 if __name__ == "__main__":
     main()# Codes-for-Converting-PDF-to-DOCX
+
+Note:  
+## Features
+- **Single File & Batch Processing**: Easily convert individual files or an entire folder of PDFs.
+- **Cross-Platform**: Uses standard `pathlib` for smooth handling of Windows/macOS/Linux file paths.
+- **Pure Python Solution**: Built on top of `pdf2docx`.
+
+## Prerequisites & Installation
+
+Make sure you have Python 3.8+ installed.
+
+```bash
+pip install pdf2docx
